@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @jaheyliger
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in React and React Native
+- 🌱 I’m currently learning Ruby on Rails
+- 💞️ I’m looking to collaborate on a team project
+- 📫 Visit me at https://jayvon.dev
+        
 
 <!---
 jaheyliger/jaheyliger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
