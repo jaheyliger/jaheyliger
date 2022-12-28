@@ -2,7 +2,7 @@
 jaheyliger/jaheyliger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jayvon Heyliger! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jayvon Heyliger! <img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif?cid=ecf05e47iksiipar7dcvp4g32e8ves8x1z5xlj53h04lc7tp&rid=giphy.gif&ct=s" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Frontend Software Engineer at <a href="https://www.cvs.com/">CVS Health
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -18,7 +18,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-### <img src="https://media.giphy.com/media/da0NgyClHpA4jqUoav/giphy.gif?cid=ecf05e4719vvz2g0l0a0y3to7164fndtiq3qiga8zw827sqd&rid=giphy.gif&ct=s" width="80"> A little more about me...  
+### <img src="https://media.giphy.com/media/3o7aCQNE8LAwzhucRW/giphy.gif?cid=ecf05e4719vvz2g0l0a0y3to7164fndtiq3qiga8zw827sqd&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
 ```javascript
 const jayvon = {
