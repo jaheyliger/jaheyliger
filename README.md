@@ -34,8 +34,7 @@ const jayvon = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-<div align='center'>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=jaheyliger&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-</div>
 
 ![snake gif](https://github.com/jaheyliger/jaheyliger/blob/output/github-contribution-grid-snake.gif)
