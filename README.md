@@ -37,5 +37,5 @@ const jayvon = {
  <img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Fighter10456)
 
-![snake gif](https://github.com/jaheyliger/jaheyliger/blob/output/github-contribution-grid-snake.gif)
