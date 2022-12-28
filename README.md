@@ -45,9 +45,5 @@ const jayvon = {
  <img src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
-<div>
-  <img src="Gradients.png" alt="Gradients" width="100%">
-</div>
-
 
 ![snake gif](https://github.com/jaheyliger/jaheyliger/blob/output/github-contribution-grid-snake.gif)
