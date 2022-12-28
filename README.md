@@ -24,16 +24,18 @@ const jayvon = {
     code: ["Javascript", "Typesctipt", "HTML", "CSS", "MySQL", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "react"],
     technologies: {
-        frameworks: ["React", "Next.js", "Node.js", "Redux"],
+        frameworks: ["React", "Next.js", "Node.js"],
         testing: ["Jest", "Cypress", "Testing Library", "Cucumber"],
         databases: ["Mongo", "MySql", "Postgres"],
-        tools: ["AWS", "Azure", "Jenkins", "Docker"]
+        tools: ["AWS", "Azure", "Jenkins", "Docker", "Redux"]
     },
     architecture: ["Serverless Architecture", "Micro-Frontend", "Single page applications"],
     currentFocus: "full-stack react sprint boot applications",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+<div align='center'>
 ![Stats](https://github-readme-stats.vercel.app/api?username=jaheyliger&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+</div>
 
 ![snake gif](https://github.com/jaheyliger/jaheyliger/blob/output/github-contribution-grid-snake.gif)
