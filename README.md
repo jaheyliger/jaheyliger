@@ -3,9 +3,7 @@ jaheyliger/jaheyliger is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # Jayvon Heyliger
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
-</p>
+<img align="center" width="100%" style="transform: rotate(180deg);"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 
 
 <div style="display: flex; align-items: center;">
