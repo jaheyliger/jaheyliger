@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
  
- <img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif?cid=ecf05e47zizciwcbme5ywrnznadn62e9m4989apum4ux078h&rid=giphy.gif&ct=s" width="230">
+ <img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif?cid=ecf05e47zizciwcbme5ywrnznadn62e9m4989apum4ux078h&rid=giphy.gif&ct=s" width="49.5%">
 
 [![Linkedin: jayvon](https://img.shields.io/badge/-jayvon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/jayvon-heyliger)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jayvon.dev/)](https://jayvon.dev/)
 ![](https://visitor-badge.glitch.me/badge?page_id=jaheyliger.jaheyliger)
 
- <img width='80%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+ <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </div>
  
 
