@@ -3,6 +3,7 @@ jaheyliger/jaheyliger is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # Jayvon Heyliger
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=506CFF&repeat=false&width=438&lines=Jayvon+Heyliger)](https://git.io/typing-svg)
 <div style="display: flex; align-items: center;">
  
 <p><em>Frontend Software Engineer at <a href="https://www.cvs.com/">CVS Health
