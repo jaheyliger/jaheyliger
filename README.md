@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 </div>
  
 
-## <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="60">A little more about me...  
+## A little more about me...  <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="60">
 
 ```javascript
 const jayvon = {
