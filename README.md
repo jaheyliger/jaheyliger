@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 ```javascript
 const jayvon = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typesctipt", "HTML", "CSS", "MySQL", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "react"],
     technologies: {
