@@ -32,6 +32,5 @@ const jayvon = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/jaheyliger)
 
 ![snake gif](https://github.com/jaheyliger/jaheyliger/blob/output/github-contribution-grid-snake.gif)
