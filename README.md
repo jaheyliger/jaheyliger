@@ -12,11 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jayvon.dev/)](https://jayvon.dev/)
 ![](https://visitor-badge.glitch.me/badge?page_id=jaheyliger.jaheyliger)
 
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-### <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="60"> A little more about me...  
+# <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="60">A little more about me...  
 
 ```javascript
 const jayvon = {
