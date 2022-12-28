@@ -2,7 +2,7 @@
 jaheyliger/jaheyliger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jayvon Heyliger! <img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif?cid=ecf05e47iksiipar7dcvp4g32e8ves8x1z5xlj53h04lc7tp&rid=giphy.gif&ct=s" width="50"></h2>
+<h2><img src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="30"/> I'm Jayvon Heyliger! <img src="https://media.giphy.com/media/i2tLw5ZyikSFdkeGHT/giphy.gif?cid=ecf05e47iksiipar7dcvp4g32e8ves8x1z5xlj53h04lc7tp&rid=giphy.gif&ct=s" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Frontend Software Engineer at <a href="https://www.cvs.com/">CVS Health
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
