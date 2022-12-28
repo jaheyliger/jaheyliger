@@ -33,6 +33,5 @@ const jayvon = {
 };
 ```
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jaheyliger&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
 ![snake gif](https://github.com/jaheyliger/jaheyliger/blob/output/github-contribution-grid-snake.gif)
