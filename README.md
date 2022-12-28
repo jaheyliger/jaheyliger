@@ -33,4 +33,6 @@ const jayvon = {
 };
 ```
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=z186f21iqync01t6bv7bg7ose&unique={true|1|on|yes})
+
 ![snake gif](https://github.com/jaheyliger/jaheyliger/blob/output/github-contribution-grid-snake.gif)
