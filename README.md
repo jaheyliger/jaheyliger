@@ -3,6 +3,7 @@ jaheyliger/jaheyliger is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # Jayvon Heyliger
+<img src="Live-Background.svg" width="100%">
 <div style="display: flex; align-items: center;">
  
 <p><em>Frontend Software Engineer at <a href="https://www.cvs.com/">CVS Health
