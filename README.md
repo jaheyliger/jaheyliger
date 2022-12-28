@@ -19,4 +19,21 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
+```javascript
+const jayvon = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typesctipt", "HTML", "CSS", "MySQL", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "react"],
+    technologies: {
+        frameworks: ["React", "Next.js", "Node.js", "Redux"],
+        testing: ["Jest", "Cypress", "Testing Library", "Cucumber"],
+        databases: ["Mongo", "MySql", "Postgres"],
+        tools: ["AWS", "Azure", "Jenkins", "Docker"]
+    },
+    architecture: ["Serverless Architecture", "Micro-Frontend", "Single page applications"],
+    currentFocus: "full-stack react sprint boot applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 ![snake gif](https://github.com/jaheyliger/jaheyliger/blob/output/github-contribution-grid-snake.gif)
