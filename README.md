@@ -3,7 +3,7 @@ jaheyliger/jaheyliger is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # <div>Jayvon Heyliger</div>
-<img align='right' src="https://media.giphy.com/media/VhtuyFfgspKizoCjWc/giphy.gif" width="230"><br/>
+<img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif?cid=ecf05e47zizciwcbme5ywrnznadn62e9m4989apum4ux078h&rid=giphy.gif&ct=s" width="230">
 <p><em>Frontend Software Engineer at <a href="https://www.cvs.com/">CVS Health
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
