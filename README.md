@@ -2,21 +2,20 @@
 jaheyliger/jaheyliger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Jayvon Heyliger
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=506CFF&repeat=false&width=438&lines=Jayvon+Heyliger)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=506CFF&repeat=false&width=438&height=43&lines=Jayvon+Heyliger)](https://git.io/typing-svg)
+
 <div style="display: flex; align-items: center;">
- 
-<p><em>Frontend Software Engineer at <a href="https://www.cvs.com/">CVS Health
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
- 
- <img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif?cid=ecf05e47zizciwcbme5ywrnznadn62e9m4989apum4ux078h&rid=giphy.gif&ct=s" width="45%">
+  <p><em>Frontend Software Engineer at <a href="https://www.cvs.com/">CVS Health
+  </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  </em></p>
 
-[![Linkedin: jayvon](https://img.shields.io/badge/-jayvon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/jayvon-heyliger)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jayvon.dev/)](https://jayvon.dev/)
-![](https://visitor-badge.glitch.me/badge?page_id=jaheyliger.jaheyliger)
+   <img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif?cid=ecf05e47zizciwcbme5ywrnznadn62e9m4989apum4ux078h&rid=giphy.gif&ct=s" width="45%">
 
- <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+  [![Linkedin: jayvon](https://img.shields.io/badge/-jayvon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/jayvon-heyliger)
+  [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jayvon.dev/)](https://jayvon.dev/)
+  ![](https://visitor-badge.glitch.me/badge?page_id=jaheyliger.jaheyliger)
+
+   <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="60"> A little more about me...  
