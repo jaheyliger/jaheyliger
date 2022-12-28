@@ -18,7 +18,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-### <img src="https://media.giphy.com/media/3o7aCQNE8LAwzhucRW/giphy.gif?cid=ecf05e4719vvz2g0l0a0y3to7164fndtiq3qiga8zw827sqd&rid=giphy.gif&ct=s" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
 ```javascript
 const jayvon = {
