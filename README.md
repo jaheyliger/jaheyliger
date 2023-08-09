@@ -18,10 +18,10 @@ You can click the Preview link to take a look at your changes.
 
 ```javascript
 const jayvon = {
-    code: ["Javascript", "Typescript", "HTML", "CSS", "MySQL", "Java"],
+    code: ["Javascript", "Typescript", "HTML", "CSS", "MySQL", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "react"],
     technologies: {
-        frameworks: ["React.js", "Next.js", "Node.js"],
+        frameworks: ["React.js", "Next.js", "Node.js", "Django"],
         testing: ["Jest", "Cypress", "Testing Library", "Cucumber"],
         databases: ["MongoDB", "MySql", "Postgres"],
         tools: ["AWS", "Azure", "Jenkins", "Docker", "Redux"]
