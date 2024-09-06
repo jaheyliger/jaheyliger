@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&perline=11&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,bootstrap,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&perline=11&theme=dark" />
   </a>
 </p>
 
