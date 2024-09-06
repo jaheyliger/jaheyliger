@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/jaheyliger/)
+
   <div align="center">
   <a href="https://leetcode.com/u/jaheyliger">
   <img height="316" src="https://leetcard.jacoblin.cool/Jaheyliger?theme=dark&font=Ubuntu&ext=activity" alt="Jayvon Leetcode Stats"/>
