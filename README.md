@@ -22,31 +22,12 @@ You can click the Preview link to take a look at your changes.
 - 💻 Visit my [Portfolio](https://jayvon.dev) for more details about me (ps. site redesign is coming shortly).
 <!--End Intro-->
  </div>
-
- <!--  <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
- --->
-
-
-
+ 
 ---
 
 ## <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="60"> Languages and Tools  
 
-```javascript
-const jayvon = {
-    code: ["Javascript", "Typescript", "HTML", "CSS", "MySQL", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "react"],
-    technologies: {
-        frameworks: ["React.js", "Next.js", "Node.js", "Django"],
-        testing: ["Jest", "Cypress", "Testing Library", "Cucumber"],
-        databases: ["MongoDB", "MySql", "Postgres"],
-        tools: ["AWS", "Azure", "Jenkins", "Docker", "Redux"]
-    },
-    architecture: ["Serverless Architecture", "Micro-Frontend", "Single page applications"],
-    currentFocus: "full-stack react sprint boot applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <div align='center'>
 <img width='49.5%'  src="https://github-readme-stats.vercel.app/api?username=jaheyliger&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
