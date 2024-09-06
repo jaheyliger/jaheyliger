@@ -57,8 +57,11 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<!--
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+-->
 
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -72,4 +75,11 @@ You can click the Preview link to take a look at your changes.
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+</picture>
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
