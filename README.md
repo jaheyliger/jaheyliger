@@ -36,9 +36,9 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Contact Me</h2>
 <div align="center"> 
-  <a href="mailto:jayvon.heyliger@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a><a href="https://www.linkedin.com/in/jayvon-heyliger"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:jayvon.heyliger@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jayvon-heyliger)
 
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
