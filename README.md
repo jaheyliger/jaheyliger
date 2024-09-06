@@ -47,5 +47,4 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
 </p>
-
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
