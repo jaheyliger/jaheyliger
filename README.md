@@ -13,15 +13,15 @@ You can click the Preview link to take a look at your changes.
   ![](https://visitor-badge.glitch.me/badge?page_id=jaheyliger.jaheyliger)
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Engineer with a huge love for React.js, Golang, Microservices, GRPC, REST API and AWS Cloud </p>
 
-- ✨ Student of life :)
+- ✨ St
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💁‍♂️ T
+- 🏙 A 
+- ✍ I 
+- ❤ C
+- 💻 Visit my [Portfolio](https://jayvon.dev) for more details about me (ps. site redesign is coming shortly).
 <!--End Intro-->
 
  <!--  <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
