@@ -32,16 +32,15 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<div width="100%">
-  <div align="left" width="45%">
+  <div align="right">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,bootstrap,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&perline=5&theme=dark" />
       </a>
   </div>
+  <p width="45%"></p>
     - ✨ Currently an engineer at Aetna/CVS Health.
     - ✨ Currently an engineer at Aetna/CVS Health.
     - ✨ Currently an engineer at Aetna/CVS Health.
-</div>
 
 ---
 
