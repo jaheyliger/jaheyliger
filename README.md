@@ -34,7 +34,9 @@ You can click the Preview link to take a look at your changes.
  <img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
+<div>
 ## Contact me  
+  </p>
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:jayvon.heyliger@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jayvon-heyliger)
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](http://discordapp.com/users/727692133309481032)
