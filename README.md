@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
    <img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif?cid=ecf05e47zizciwcbme5ywrnznadn62e9m4989apum4ux078h&rid=giphy.gif&ct=s" width="45%">
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayvon-heyliger)
-  [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jayvon.dev/)](https://jayvon.dev/)
-  [![AWS Certified](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4b2dc5a1-b898-433a-b0f3-ffe75d346ff6/linked_in_profile)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jayvon.dev/)
+  [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/4b2dc5a1-b898-433a-b0f3-ffe75d346ff6/linked_in_profile)
   ![](https://visitor-badge.glitch.me/badge?page_id=jaheyliger.jaheyliger)
 
    <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
