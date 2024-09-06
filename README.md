@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
  
 ---
 
-## <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="60"> Languages and Tools  
+## <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="62"> Languages and Tools  
 
 [![My Skills](https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&theme=dark)](https://skillicons.dev)
 
