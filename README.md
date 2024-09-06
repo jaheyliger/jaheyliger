@@ -32,16 +32,13 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<!---
-[![My Skills](https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&theme=dark)](https://skillicons.dev)
---->
 <div align='center'>
 <img width='49.5%'  src="https://github-readme-stats.vercel.app/api?username=jaheyliger&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
  <img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
 
-<h2 align="center"><Contact Me </h2>
+<h2 align="center">Contact Me</h2>
 <p align="center">
   <a href="mailto:jayvon.heyliger@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
