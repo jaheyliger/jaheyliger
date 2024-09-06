@@ -37,5 +37,6 @@ You can click the Preview link to take a look at your changes.
 ## Contact me  
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:jayvon.heyliger@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jayvon-heyliger)
+[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](http://discordapp.com/users/727692133309481032)
 
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
