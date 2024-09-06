@@ -35,7 +35,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h2 align="center">Contact Me</h2>
-<div>
+<div align="center"> 
+  <a href="mailto:jayvon.heyliger@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:jayvon.heyliger@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jayvon-heyliger)
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](http://discordapp.com/users/727692133309481032)
