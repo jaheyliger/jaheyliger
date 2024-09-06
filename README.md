@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 
   [![Linkedin: jayvon](https://img.shields.io/badge/-jayvon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/jayvon-heyliger)
   [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jayvon.dev/)](https://jayvon.dev/)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![](https://visitor-badge.glitch.me/badge?page_id=jaheyliger.jaheyliger)
 
    <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
