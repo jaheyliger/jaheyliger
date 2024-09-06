@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="62"> Languages and Tools  </h2>
+<h2 align="center"><Contact Me </h2>
 <p align="center">
   <a href="mailto:jayvon.heyliger@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
