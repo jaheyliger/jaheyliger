@@ -40,8 +40,15 @@ You can click the Preview link to take a look at your changes.
  <img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
-## Contact Me
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:jayvon.heyliger@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jayvon-heyliger)
+
+<h2 align="center"><img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="62"> Languages and Tools  </h2>
+<p align="center">
+  <a href="mailto:jayvon.heyliger@gmail.com">
+    <img src="https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,bootstrap,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&perline=11&theme=dark](https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayvon-heyliger">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+</p>
 
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
