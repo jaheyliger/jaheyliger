@@ -28,8 +28,6 @@ You can click the Preview link to take a look at your changes.
 - 💻 Visit my [Portfolio](https://jayvon.dev) for more details about me (ps. site redesign is coming shortly).
 <!--End Intro-->
  </div>
- 
----
 
 <h2 align="center"><img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="62"> Languages and Tools  </h2>
 <p align="center">
@@ -84,8 +82,3 @@ You can click the Preview link to take a look at your changes.
 </picture>
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
