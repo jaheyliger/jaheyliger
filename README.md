@@ -32,19 +32,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-<div style="display: flex; align-items: center;">
-      <a href="https://skillicons.dev" align='left' width="45%">
-        <img src="https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,bootstrap,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&perline=5&theme=dark" />
-      </a>
-
-<!--Start Intro-->               
-<p align="right">Current Learning</p>
-- ✨ Currently an engineer at Aetna/CVS Health.
-- ✨ Currently an engineer at Aetna/CVS Health.
-- ✨ Currently an engineer at Aetna/CVS Health.
-<!--End Intro-->
- </div>
-
 ---
 
 <div align='center'>
