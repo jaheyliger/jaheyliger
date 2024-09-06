@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=100&color=4683FF&multiline=true&repeat=false&width=480&height=77&lines=Jayvon+Heyliger;Full+Stack+Engineer)](https://git.io/typing-svg)
 
+<div>
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayvon-heyliger)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jayvon.dev/)
@@ -23,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 
  <!--  <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
  --->
+
+ </div
 
 ---
 
