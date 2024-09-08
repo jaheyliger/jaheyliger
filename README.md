@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - ✨ Currently an engineer at Aetna/CVS Health.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
--  AWS Certified - Developer Associate. [See Credential](https://www.credly.com/badges/4b2dc5a1-b898-433a-b0f3-ffe75d346ff6/linked_in_profile)
+- 📄 AWS Certified - Developer Associate. [See Credential](https://www.credly.com/badges/4b2dc5a1-b898-433a-b0f3-ffe75d346ff6/linked_in_profile)
 - 💻 Visit my [Portfolio](https://jayvon.dev) for more details about me (PS. site redesign is coming shortly).
 <!--End Intro-->
 
@@ -40,13 +40,16 @@ You can click the Preview link to take a look at your changes.
 
 <details>
 <summary><h2 align="center">Currently Learning</h2></summary>
-  
-<h3 align="center">Golang</h3>
-<img align="right" width="25%" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75" alt="gopher" />
-<p align="left">test</p>
-- ✨ Solving Leetcode problems again in Go
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-
+<h3>Golang</h3>
+  <ul>
+    <li>Microservices</li>
+    <li>GRPC</li>
+    <li>Re-solving leetcode problems in Go</li>
+  </ul>
+  <h3>AWS Cloud</h3>
+  <ul>
+    <li>Studying for the AI Practitional - Foundational Certification</li>
+  </ul>
 </details>
 
 <!-- Streaks Start -->
