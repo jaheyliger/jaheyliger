@@ -20,9 +20,8 @@ You can click the Preview link to take a look at your changes.
 - ✨ Currently an engineer at Aetna/CVS Health.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 -  AWS Certified - Developer Associate. [See Credential](https://www.credly.com/badges/4b2dc5a1-b898-433a-b0f3-ffe75d346ff6/linked_in_profile)
-- 💻 Visit my [Portfolio](https://jayvon.dev) for more details about me (ps. site redesign is coming shortly).
+- 💻 Visit my [Portfolio](https://jayvon.dev) for more details about me (PS. site redesign is coming shortly).
 <!--End Intro-->
- </div>
 
 <!--   <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="62">  -->
 
