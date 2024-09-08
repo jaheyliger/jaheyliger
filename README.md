@@ -8,6 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=100&color=4683FF&multiline=true&repeat=false&width=480&height=77&lines=Jayvon+Heyliger;Full+Stack+Engineer)](https://git.io/typing-svg)
+t
+
 -->
 
 <div style="display: flex; align-items: center;">
