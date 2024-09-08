@@ -94,8 +94,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/jaheyliger/jaheyliger/output/github-snake-dark.svg" width="100%"> 
 </p>
 
-<!--
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 </p>
--->
