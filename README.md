@@ -37,29 +37,41 @@ t
 <!--- Start Skils -->
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" /> I work with...</h3>  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 </p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,bootstrap,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&perline=11&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="10%"> 
 </p>
 <!-- End Skills -->
 
+
+
+<details>
+<summary>Stats</summary>
+### Leetcode
   <div align="center">
   <a href="https://leetcode.com/u/jaheyliger">
   <img height="316" src="https://leetcard.jacoblin.cool/Jaheyliger?theme=dark&font=Ubuntu&ext=activity" alt="Jayvon Leetcode Stats"/>
   </a>
  </div>
 
- ![]()
+### Languages
 <div align='center'>
 <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
- <img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=tokyonight&hide_border=false">
-</div>
+  </div>
 
+### Streaks
+<div align='center'>
+<img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=tokyonight&hide_border=false">
+  </div>
 
+</details>
+<div align='center'>
+
+<!-- Contact Start -->
 <h2 align="center">Contact Me</h2>
 <p align="center">
   <a href="mailto:jayvon.heyliger@gmail.com">
@@ -69,6 +81,7 @@ t
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
 </p>
+<!-- Contact End -->
 
 <!--
 <img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
