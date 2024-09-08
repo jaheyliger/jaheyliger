@@ -70,6 +70,11 @@ You can click the Preview link to take a look at your changes.
 <div align='center'>
 <img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=tokyonight&hide_border=false">
   </div>
+  <!--
+<h3 align="center">Commits</h3>
+<div align='center'>
+<img width='49.5%' src="./metrics.plugin.isocalendar.svg">
+  </div> -->
 </details>
 <!-- Streaks End -->
   
