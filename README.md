@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <!-- End Skills -->
 
 <details>
-<summary><h2 align="center">Currently Learning</h2></summary>
+<summary><h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="25" height="25" />Currently Learning</h2></summary>
 <h3>Golang</h3>
   <ul>
     <li>Microservices</li>
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Streaks Start -->
 <details>
-<summary><h2 align="center">Stats</h2></summary>  
+<summary><h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />Stats</h2></summary>  
 <h3 align="center">Leetcode</h3>
   <div align="center">
   <a href="https://leetcode.com/u/jaheyliger">
