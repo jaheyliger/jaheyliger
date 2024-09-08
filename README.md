@@ -7,15 +7,7 @@ You can click the Preview link to take a look at your changes.
 <img align='center' src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' width="100%" />
 <!-- <img align='center' src="./standard.gif" width="100%"> -->
 
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=100&color=4683FF&multiline=true&repeat=false&width=480&height=77&lines=Jayvon+Heyliger;Full+Stack+Engineer)](https://git.io/typing-svg)
-t
-
--->
-
-<div style="display: flex; align-items: center;">
-<img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif?cid=ecf05e47zizciwcbme5ywrnznadn62e9m4989apum4ux078h&rid=giphy.gif&ct=s" width="45%">
-
+<img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif?cid=ecf05e47zizciwcbme5ywrnznadn62e9m4989apum4ux078h&rid=giphy.gif&ct=s" width="45%" />
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayvon-heyliger)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jayvon.dev/)
