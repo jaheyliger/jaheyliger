@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="62">  -->
 
 <!--- Start Skils -->
-<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" /> I work with...</h3>  
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" height="20" /> I work with...</h3>  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 </p>
@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <details>
 <summary><h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="25" height="25" />Currently Learning</h2></summary>
-<h3>Golang</h3>
+  <h3>Golang</h3>
   <ul>
     <li>Microservices</li>
     <li>GRPC</li>
@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
   <ul>
     <li>Studying for the AI Practitional - Foundational Certification</li>
   </ul>
+</div>
 </details>
 
 <!-- Streaks Start -->
@@ -84,3 +85,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 <!-- Contact End -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+</p>
