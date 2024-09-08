@@ -52,37 +52,37 @@ t
   
 <h3 align="center">Golang</h3>
 
-  <div align="center">
-  <a href="https://leetcode.com/u/jaheyliger">
-  <img height="316" src="https://leetcard.jacoblin.cool/Jaheyliger?theme=dark&font=Ubuntu&ext=activity" alt="Jayvon Leetcode Stats"/>
-  </a>
+<div>
+  <div align="right">
+  <img height="316" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75" alt="gopher"/>
+  </div>
+  - ✨ Solving Leetcode problems again in Go
+  - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
  </div>
 
 </details>
 
+<!-- Streaks Start -->
 <details>
-<summary><h2 align="center">Stats</h2></summary>
-  
+<summary><h2 align="center">Stats</h2></summary>  
 <h3 align="center">Leetcode</h3>
   <div align="center">
   <a href="https://leetcode.com/u/jaheyliger">
   <img height="316" src="https://leetcard.jacoblin.cool/Jaheyliger?theme=dark&font=Ubuntu&ext=activity" alt="Jayvon Leetcode Stats"/>
   </a>
  </div>
-
 <h3 align="center">Languages</h3>
 <div align='center'>
 <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
   </div>
-
 <h3 align="center">Streaks</h3>
 <div align='center'>
 <img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=tokyonight&hide_border=false">
   </div>
-
 </details>
+<!-- Streaks End -->
+  
 <div align='center'>
-
 <!-- Contact Start -->
 <h2 align="center">Contact Me</h2>
 <p align="center">
