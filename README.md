@@ -53,7 +53,7 @@ t
 <h3 align="center">Golang</h3>
 
 <div>
-  <img width="45%" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75" alt="gopher" />
+  <img align="right" width="25%" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75" alt="gopher" />
   <p align="left">test</p>
   - ✨ Solving Leetcode problems again in Go
   - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
