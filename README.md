@@ -33,10 +33,13 @@ t
  </div>
 
 <!--   <img src="https://media.giphy.com/media/W1fCWWxDcFK53vpGHg/giphy.gif?cid=ecf05e4787qcmxvh8o88m3kv4xk8xd9zte39yty9772bva3z&rid=giphy.gif&ct=s" width="62">  -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" /> 
-  Languages and Tools  
-</h2>
+
+  
+  ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="30" />  Languages and Tools  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%"> 
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,go,nextjs,remix,tailwind,bootstrap,ts,js,html,css,nodejs,aws,figma,git,docker,jenkins,cypress,jest,gherkin,mongodb,postgres,openshift&perline=11&theme=dark" />
