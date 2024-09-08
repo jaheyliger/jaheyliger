@@ -47,7 +47,18 @@ t
 </p>
 <!-- End Skills -->
 
+<details>
+<summary><h2 align="center">Currently Learning</h2></summary>
+  
+<h3 align="center">Golang</h3>
 
+  <div align="center">
+  <a href="https://leetcode.com/u/jaheyliger">
+  <img height="316" src="https://leetcard.jacoblin.cool/Jaheyliger?theme=dark&font=Ubuntu&ext=activity" alt="Jayvon Leetcode Stats"/>
+  </a>
+ </div>
+
+</details>
 
 <details>
 <summary><h2 align="center">Stats</h2></summary>
