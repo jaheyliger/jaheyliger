@@ -42,13 +42,10 @@ You can click the Preview link to take a look at your changes.
 <summary><h2 align="center">Currently Learning</h2></summary>
   
 <h3 align="center">Golang</h3>
-
-<div>
-  <img align="right" width="25%" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75" alt="gopher" />
-  <p align="left">test</p>
-  - ✨ Solving Leetcode problems again in Go
-  - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
- </div>
+<img align="right" width="25%" src="https://marcofranssen.nl/_next/image?url=%2Fimages%2F951957866431d77793480aba8bb624da2f6b3fb2.gif&w=1920&q=75" alt="gopher" />
+<p align="left">test</p>
+- ✨ Solving Leetcode problems again in Go
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
 </details>
 
