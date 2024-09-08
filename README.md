@@ -78,8 +78,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 <!-- Streaks End -->
   
-<div align='center'>
-<!-- Contact Start -->
+<!--
 <h2 align="center">Contact Me</h2>
 <p align="center">
   <a href="mailto:jayvon.heyliger@gmail.com">
@@ -88,10 +87,15 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/jayvon-heyliger">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
+</p> 
+-->
+## Feeding
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaheyliger/jaheyliger/output/github-snake-dark.svg" width="100%"> 
 </p>
-<!-- Contact End -->
+
+<!--
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 </p>
-
-<!-- ![Snake animation](https://raw.githubusercontent.com/jaheyliger/jaheyliger/output/github-contribution-grid-snake-dark.svg) -->
+-->
