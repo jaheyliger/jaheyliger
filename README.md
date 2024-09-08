@@ -52,19 +52,19 @@ t
 <details>
 <summary><h2 align="center">Stats</h2></summary>
   
-### Leetcode
+<h3 align="center">Leetcode</h3>
   <div align="center">
   <a href="https://leetcode.com/u/jaheyliger">
   <img height="316" src="https://leetcard.jacoblin.cool/Jaheyliger?theme=dark&font=Ubuntu&ext=activity" alt="Jayvon Leetcode Stats"/>
   </a>
  </div>
 
-### Languages
+<h3 align="center">Languages</h3>
 <div align='center'>
 <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
   </div>
 
-### Streaks
+<h3 align="center">Streaks</h3>
 <div align='center'>
 <img width='49.5%' src="http://github-readme-streak-stats.herokuapp.com?user=jaheyliger&theme=tokyonight&hide_border=false">
   </div>
