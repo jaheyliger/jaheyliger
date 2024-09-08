@@ -50,7 +50,7 @@ t
 
 
 <details>
-<summary><h2>Stats</h2></summary>
+<summary><h2align="center">Stats</h2></summary>
   
 ### Leetcode
   <div align="center">
@@ -83,25 +83,3 @@ t
   </a>
 </p>
 <!-- Contact End -->
-
-<!--
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
--->
-
-<!--
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
--->
-
