@@ -50,7 +50,7 @@ t
 
 
 <details>
-<summary><h2align="center">Stats</h2></summary>
+<summary><h2 align="center">Stats</h2></summary>
   
 ### Leetcode
   <div align="center">
