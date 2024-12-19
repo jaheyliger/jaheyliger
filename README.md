@@ -40,11 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 <details>
 <summary><h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Dark%20Skin%20Tone.png" alt="Writing Hand Dark Skin Tone" width="25" height="25" />Currently Learning</h2></summary>
-  <h3>Golang</h3>
+  <h3>Java</h3>
   <ul>
     <li>Microservices</li>
     <li>GRPC</li>
-    <li>Re-solving leetcode problems in Go</li>
+    <li>Re-solving leetcode problems in Java</li>
   </ul>
   <h3>AWS Cloud</h3>
   <ul>
@@ -56,12 +56,12 @@ You can click the Preview link to take a look at your changes.
 <!-- Streaks Start -->
 <details>
 <summary><h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" />Stats</h2></summary>  
-<h3 align="center">Leetcode</h3>
+<!-- <h3 align="center">Leetcode</h3>
   <div align="center">
   <a href="https://leetcode.com/u/jaheyliger">
   <img height="316" src="https://leetcard.jacoblin.cool/Jaheyliger?theme=dark&font=Ubuntu&ext=activity" alt="Jayvon Leetcode Stats"/>
   </a>
- </div>
+ </div> -->
 <h3 align="center">Languages</h3>
 <div align='center'>
 <img width='49.5%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaheyliger&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
